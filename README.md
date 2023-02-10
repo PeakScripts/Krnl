@@ -10,8 +10,8 @@ Krnl is an executor with an intuitive graphical interface to help you quickly wr
 
 # Requirements
 1. Windows 10/11 64 bit
-2. .NET Framework 4.7.2+
-3. Webclint version of Roblox
+2. [.NET Framework 4.7.2+](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net472-web-installer)
+3. [Webclint version of Roblox](https://www.roblox.com/download)
 
 # UI:
 
