@@ -8,6 +8,11 @@ Krnl is an executor with an intuitive graphical interface to help you quickly wr
 4. Launch your roblox game then click inject
 5. Execute your script
 
+# Requirements
+1. Windows 10/11 64 bit
+2. .NET Framework 4.7.2+
+3. Webclint version of Roblox
+
 # UI:
 
 ![image](https://user-images.githubusercontent.com/122708389/217989201-30fc2352-a8d8-48b5-919e-fed7424d3208.png)
