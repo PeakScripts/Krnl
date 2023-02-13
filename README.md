@@ -9,9 +9,8 @@ Krnl is an executor with an intuitive graphical interface to help you quickly wr
 5. Execute your script
 
 # Requirements
-1. Windows 10/11 64 bit
-2. [.NET Framework 4.7.2+](https://aka.ms/vs/16/release/vc_redist.x86.exe)
-3. [Webclient version of Roblox](https://www.roblox.com/download)
+- Windows 10/11 64 bit
+- [Visual Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe)
 
 # UI:
 
