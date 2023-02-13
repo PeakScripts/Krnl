@@ -1,7 +1,7 @@
 # Krnl
 Krnl is an executor with an intuitive graphical interface to help you quickly write and execute scripts.
 
-# 📁 〢 Setting up BasketBall Game
+# 📁 〢 Setting up Krnl
 1. Download the [Krnl](https://github.com/DtKdPython/Krnl/archive/refs/heads/main.zip)
 2. Extract the Folder by right click on the zip and clicking 'Extract All...'
 3. Run the Krnl.exe
